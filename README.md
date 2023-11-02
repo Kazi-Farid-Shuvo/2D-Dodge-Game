@@ -1,2 +1,7 @@
 # 2D-Dodge-Game
-Welcome to our 2D Game Project, an exciting adventure in game development using C++ and OpenGL. In this game, players take control of two agents, A1 and A2, and guide them through an ever-changing world. Our mission is to navigate these agents while avoiding enemy objects, E1 and E2, and score points along the way.
+The game is set within a 2D space where two player-controlled agents, represented by circles, 
+navigate within a bordered environment. Two enemy entities also move within the space, attempting to
+collide with the player agents. The objective is to maneuver the player-controlled agents and avoid 
+collisions with the enemies to sustain as long as possible and achieve a high score. Once a collision 
+between a player agent and an enemy occurs, the game ends, leading to a game over-screen 
+displaying the final score.
